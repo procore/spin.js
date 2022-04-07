@@ -33,9 +33,9 @@
   },
   "devDependencies": {
     "grunt": "^1.0.2",
-    "grunt-contrib-connect": "^1.0.2",
+    "grunt-contrib-connect": "^3.0.0",
     "grunt-contrib-copy": "^1.0.0",
-    "grunt-gh-pages": "^2.0.0",
+    "grunt-gh-pages": "^4.0.0",
     "rollup": "^0.58.2",
     "typescript": "^2.8.3"
   },
